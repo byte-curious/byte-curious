@@ -75,8 +75,8 @@ I’m deeply interested in **Data Structures & Algorithms** and **Web Developmen
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Mishra2006&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Mishra2006&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=byte-curious&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-curious&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" />
 </div>
 
 <!-- 
